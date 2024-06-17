@@ -7,20 +7,37 @@ interface, Quasar is the perfect remote administration solution for you.
 
 
 Features
+
 TCP network stream (IPv4 & IPv6 support)
+
 Fast network serialization (Protocol Buffers)
+
 Encrypted communication (TLS)
+
 UPnP Support (automatic port forwarding)
+
 Task Manager
+
 File Manager
+
 Startup Manager
+
 Remote Desktop
+
 Remote Shell
+
 Remote Execution
+
 System Information
+
 Registry Editor
+
 System Power Commands (Restart, Shutdown, Standby)
+
 Keylogger (Unicode Support)
+
 Reverse Proxy (SOCKS5)
+
 Password Recovery (Common Browsers and FTP Clients)
+
 ... and many more!
