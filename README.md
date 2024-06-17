@@ -5,10 +5,14 @@ The usage ranges from user support through day-to-day administrative work
 to employee monitoring. Providing high stability and an easy-to-use user
 interface, Quasar is the perfect remote administration solution for you.
 
-Images/remote-desktop.png
+## Screenshots
+![remote-desktop](remote-desktop.png)
+![remote-files](remote-files.png)
+![remote-shell](remote-shell.png)
 
 
-Features
+
+## Features
 
 TCP network stream (IPv4 & IPv6 support)
 
