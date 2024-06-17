@@ -5,7 +5,7 @@ The usage ranges from user support through day-to-day administrative work
 to employee monitoring. Providing high stability and an easy-to-use user
 interface, Quasar is the perfect remote administration solution for you.
 
-![Uploading image.png…]()
+
 
 
 Features
